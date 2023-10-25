@@ -1,4 +1,4 @@
-Hi there, I'm <a href="https://akshatd120.github.io/" target="_blank" rel="noreferrer">Akshat</a> 👋
+Hi there, I'm <a href="https://akshatd120.github.io/" target="_blank" rel="noreferrer">Akshat</a> ...👋
 
 ### 🤝 Connect with me:  
 
