@@ -1,5 +1,5 @@
-Hi there, I'm <a href="https://akshatd120.github.io/" target="_blank" rel="noreferrer">Akshat</a> ...👋
-Education: I am currently pursuing a Bachelor's in Mechanical Engineering from NIT Silchar. 
+Hi there, I'm <a href="https://akshatd120.github.io/" target="_blank" rel="noreferrer">Akshat</a> ...👋<br>
+Education: I am currently pursuing a Bachelor's in Mechanical Engineering from NIT Silchar.
 
 ### 🤝 Connect with me:  
 
