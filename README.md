@@ -25,6 +25,6 @@ Education: I am currently pursuing a Bachelor's in Mechanical Engineering from N
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </br>
 ## 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatd120&theme=blue-green)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatd120&theme=2077)   
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Auth0x78&theme=blue-green)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auth0x780&theme=2077)   
          
