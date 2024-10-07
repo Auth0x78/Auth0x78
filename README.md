@@ -1,17 +1,17 @@
-Hi there, I'm <a href="https://akshatd120.github.io/" target="_blank" rel="noreferrer">Akshat</a> ...👋<br>
-Education: I am currently pursuing a Bachelor's in Mechanical Engineering from NIT Silchar.
+Hi there, I'm Akshat Dighade... 👋<br>
+Education: Bachelor of Technology in Electronics and Communication Engineering, NIT Silchar.
 
 ### 🤝 Connect with me:  
 
-<a href="https://www.linkedin.com/in/akshat-dighade-735b5918b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Akshat | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/akshat-dighade/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Akshat | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/__aksst__/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Akshat | Instagram" width="21px"/></a>
 </br>
 
 ## 🌱 I'm currently learning
 
 - 📱 Kotlin
-- Assembly
 - 🏗️ Compiler Design
+- LLVM IR
     
 ## 💼 Technical Skills   
 
@@ -26,5 +26,5 @@ Education: I am currently pursuing a Bachelor's in Mechanical Engineering from N
 </br>
 ## 📈 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Auth0x78&theme=blue-green)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auth0x780&theme=2077)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auth0x78&theme=2077)   
          
