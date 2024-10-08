@@ -1,4 +1,4 @@
-# Hello, I'm Akshat Dighade! 👋💻
+# Hello, I'm Akshat! 👋💻
 
 Welcome to my GitHub profile! I'm an enthusiastic developer with a Bachelor of Technology in Electronics and Communication Engineering from NIT Silchar. My journey in technology is fueled by a passion for **systems programming**, **web technologies**, and **low-level security research**.
 
