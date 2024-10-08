@@ -13,12 +13,12 @@ I enjoy working with a variety of technologies, including:
 - **Programming Languages:** C, C++, C#, Java, OpenGL, Python, JavaScript 
 - **Web Technologies:** Websockets, HTML, CSS
 - **Tools & Frameworks:** Unity, Docker, CMake
-
-## 📂 [View My CV](https://drive.google.com/file/d/1-FlSDkdFRZjylwhIN5QNyaBzXw-p61hx/view?usp=sharing)
-
+ 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auth0x78&theme=blue-green)  
 ![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auth0x78&theme=2077)
+
+## 📂 [View My CV](https://drive.google.com/file/d/1-FlSDkdFRZjylwhIN5QNyaBzXw-p61hx/view?usp=sharing)
 
 ## 🤝 Let's Connect!
 I'm always open to collaborating on projects and discussing tech. Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/akshat-dighade/) or [Instagram](https://www.instagram.com/__aksst__/).
