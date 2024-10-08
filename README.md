@@ -1,30 +1,26 @@
-Hi there, I'm Akshat Dighade... 👋<br>
-Education: Bachelor of Technology in Electronics and Communication Engineering, NIT Silchar.
+# Hello, I'm Akshat Dighade! 👋💻
 
-### 🤝 Connect with me:  
+Welcome to my GitHub profile! I'm an enthusiastic developer with a Bachelor of Technology in Electronics and Communication Engineering from NIT Silchar. My journey in technology is fueled by a passion for **systems programming**, **web technologies**, and **low-level security research**.
 
-<a href="https://www.linkedin.com/in/akshat-dighade/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Akshat | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/__aksst__/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Akshat | Instagram" width="21px"/></a>
-</br>
+## 🔭 Current Focus
+I'm diving deep into:
+- **LLVM** for compiler design ⚙️
+- **Systems Engineering** to enhance system performance and reliability 🛠️
+- **Hardware Hacking**: Explore the intricacies of hardware and firmware 🖥️🔍
 
-## 🌱 I'm currently learning
+## 🛠️ Technical Skills
+I enjoy working with a variety of technologies, including:
+- **Programming Languages:** C, C++, C#, Java, OpenGL, Python, JavaScript 
+- **Web Technologies:** Websockets, HTML, CSS
+- **Tools & Frameworks:** Unity, Docker, CMake
 
-- 📱 Kotlin
-- 🏗️ Compiler Design
-- LLVM IR
-    
-## 💼 Technical Skills   
+## 📂 [View My CV](https://drive.google.com/file/d/1-FlSDkdFRZjylwhIN5QNyaBzXw-p61hx/view?usp=drive_link)
 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-</br>
-![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</br>
-## 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Auth0x78&theme=blue-green)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auth0x78&theme=2077)   
-         
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auth0x78&theme=blue-green)  
+![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auth0x78&theme=2077)
+
+## 🤝 Let's Connect!
+I'm always open to collaborating on projects and discussing tech. Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/akshat-dighade/) or [Instagram](https://www.instagram.com/__aksst__/).
+
+Thanks for stopping by! Let's create something amazing together! 🚀✨
