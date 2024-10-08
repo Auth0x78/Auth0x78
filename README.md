@@ -14,7 +14,7 @@ I enjoy working with a variety of technologies, including:
 - **Web Technologies:** Websockets, HTML, CSS
 - **Tools & Frameworks:** Unity, Docker, CMake
 
-## 📂 [View My CV](https://drive.google.com/file/d/1-FlSDkdFRZjylwhIN5QNyaBzXw-p61hx/view?usp=drive_link)
+## 📂 [View My CV](https://drive.google.com/file/d/1-FlSDkdFRZjylwhIN5QNyaBzXw-p61hx/view?usp=sharing)
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auth0x78&theme=blue-green)  
