@@ -29,11 +29,7 @@ Right now I'm spending most of my time with **LLVM**, poking around compiler int
 
 ![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auth0x78&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auth0x78&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Auth0x78&theme=dark&hide_border=true)
-
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auth0x78&theme=2077)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auth0x78&theme=blue-green)
 
 ---
 
