@@ -25,14 +25,6 @@ Right now I'm spending most of my time with **LLVM**, poking around compiler int
 
 ---
 
-### GitHub Activity
-
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auth0x78&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auth0x78&theme=blue-green)
-
----
-
 ### Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Auth0x78&theme=react-dark&hide_border=true&area=true)
@@ -40,7 +32,5 @@ Right now I'm spending most of my time with **LLVM**, poking around compiler int
 ---
 
 ### Let's talk
-![📄 CV](https://drive.google.com/file/d/1LflCK7QLhSlUq_mHjRmpeIIOe-EVI-4v/view?usp=sharing) · ![💼 LinkedIn](https://www.linkedin.com/in/akshat-dighade/)
+![💼 LinkedIn](https://www.linkedin.com/in/akshat-dighade/)
 I'm always up for a good conversation about compilers, systems, or weird hardware things.
-
-📄 [CV](https://drive.google.com/file/d/1-FlSDkdFRZjylwhIN5QNyaBzXw-p61hx/view?usp=sharing) · 💼 [LinkedIn](https://www.linkedin.com/in/akshat-dighade/) · 📸 [Instagram](https://www.instagram.com/__aksst__/)
